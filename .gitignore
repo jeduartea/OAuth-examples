@@ -25,6 +25,13 @@ output.json
 
 # Google Services (e.g. APIs or Firebase)
 google-services.json
+credentials.json
 
 # Android Profiling
 *.hprof
+
+# environment variables
+.env
+venv
+__pycache__
+.DS_Store

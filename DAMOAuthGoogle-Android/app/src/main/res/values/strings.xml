@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DAMOAuthGoogle</string>
+    <string name="Usernamelabel">Email</string>
+    <string name="PasswordLabel">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="register">Register</string>
+    <string name="errorregister">Error Registering User</string>
+    <string name="successregister">User Registered Successfully</string>
+</resources>
